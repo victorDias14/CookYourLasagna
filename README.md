@@ -10,4 +10,4 @@ O método preparationTimeInMinutes() recebe um atributo que é a quantidade de c
 
 O método totalTimeInMinutes() recebe dois atributos, a quantidade de camadas da lasanha e o tempo que a lasanha está no forno, e retorna o tempo total de preparo da lasanha.
 
-https://exercism.org/tracks/java/exercises/annalyns-infiltration
+https://exercism.org/tracks/java/exercises/lasagna
